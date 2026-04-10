@@ -1,0 +1,22 @@
+{
+  "name": "codice-sconto-libraccio",
+  "version": "1.0.0",
+  "description": "Recupero automatico di codici sconto Libraccio da shopilo.it",
+  "main": "index.js",
+  "keywords": [
+    "codice-sconto",
+    "codice-sconto-libraccio",
+    "voucher-libraccio",
+    "coupon-libraccio",
+    "sconti",
+    "shopilo",
+    "coupon"
+  ],
+  "author": "shopilo-it",
+  "license": "MIT",
+  "homepage": "https://shopilo.it/negozi/libraccio.it",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-it/codice-sconto-libraccio.git"
+  }
+}
